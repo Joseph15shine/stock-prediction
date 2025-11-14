@@ -1,1 +1,1 @@
-# stock-prediction
+# Stock_predition_streamlit
